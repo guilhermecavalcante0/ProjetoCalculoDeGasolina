@@ -34,12 +34,12 @@ Com base nesses dados, ele calcula:
 
 ## 💻 Exemplo de execução
 
-Digite a distancia da viagem (em km): 200
-Digite quantos km o carro faz por litro: 10
-Digite o preco do combustivel (em reais): 5.50
-Digite quanto dinheiro voce tem: 120
+- Digite a distancia da viagem (em km): 200
+- Digite quantos km o carro faz por litro: 10
+- Digite o preco do combustivel (em reais): 5.50
+- Digite quanto dinheiro voce tem: 120
 
-Você vai precisar de 20 litros de combustivel.
-O custo total da viagem sera de R$ 110
-Parabens! Voce CONSEGUE fazer a viagem com o dinheiro que tem.
+- Você vai precisar de 20 litros de combustivel.
+- O custo total da viagem sera de R$ 110
+- Parabens! Voce CONSEGUE fazer a viagem com o dinheiro que tem.
 
