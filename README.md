@@ -46,13 +46,13 @@ Escolha o tipo de combustivel:
 3 - Diesel
 Digite o numero correspondente: 1
 
--Digite a distancia da viagem (em km): 200
--Digite quantos km o carro faz por litro: 10
--Digite o preco do combustivel (em reais): 5.50
--Digite quanto dinheiro voce tem: 120
+- Digite a distancia da viagem (em km): 200
+- Digite quantos km o carro faz por litro: 10
+- Digite o preco do combustivel (em reais): 5.50
+- Digite quanto dinheiro voce tem: 120
 
--Tipo de combustivel escolhido: Gasolina
--Você vai precisar de 20 litros de combustivel.
--O custo total da viagem sera de R$ 110
--Parabens! Voce CONSEGUE fazer a viagem com o dinheiro que tem.
+- Tipo de combustivel escolhido: Gasolina
+- Você vai precisar de 20 litros de combustivel.
+- O custo total da viagem sera de R$ 110
+- Parabens! Voce CONSEGUE fazer a viagem com o dinheiro que tem.
 
