@@ -56,3 +56,15 @@ Digite o numero correspondente: 1
 - O custo total da viagem sera de R$ 110
 - Parabens! Voce CONSEGUE fazer a viagem com o dinheiro que tem.
 
+
+🛡️ Se o usuário tentar digitar valores **negativos ou iguais a zero**, o programa pedirá novamente até que um valor válido seja informado.
+
+---
+
+## 🔗 Links úteis do projeto
+
+- 🧭 **Trello (Planejamento do Projeto):**  
+  [https://trello.com/b/FLbVa3zs/calculadora-de-viagem-em-c](https://trello.com/b/FLbVa3zs/calculadora-de-viagem-em-c)
+
+- 🧩 **Lucidchart (Fluxograma do Projeto):**  
+  [https://lucid.app/lucidchart/1ca6965c-9b70-4c45-b6c1-93504360d983/edit?invitationId=inv_50fdafe3-f08e-4668-a061-04eeff1da05f&page=L6LdhCrfnsHj#](https://lucid.app/lucidchart/1ca6965c-9b70-4c45-b6c1-93504360d983/edit?invitationId=inv_50fdafe3-f08e-4668-a061-04eeff1da05f&page=L6LdhCrfnsHj#)
